@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 For running this script you'll need:
 * Python
 * An IDE
-* SpeechRecognition Module
+* Speech Recognition Module
 * PyAudio Module
 * PiP Installer
 * An active internet connection *as Google API needs internet to function*
