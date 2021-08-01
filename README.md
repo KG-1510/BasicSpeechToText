@@ -1,6 +1,6 @@
 # Basic Speech-To-Text Convertor using Google API
 
-A Python script to covert speech from device microphone to text and print on the console screen
+A Python script to covert speech from device microphone to text and print on the console screen.
 
 ## Getting Started
 
