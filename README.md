@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-For running this script you'll need:
+For running this script, you'll need:
 * Python3
 * An IDE
 * Speech Recognition Module
